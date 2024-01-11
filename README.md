@@ -1,4 +1,7 @@
-# Burger Queen (API Client) ***EM CODIFICAÇÃO***
+# Burger Queen (API Client) 
+
+# EM CODIFICAÇÃO
+Explorar os universos do React e Angular é mais do que adotar frameworks populares; é imergir em ecossistemas que transcendem códigos e oferecem soluções consolidadas para os desafios complexos da interface do usuário na web. Ao escolher entre essas poderosas ferramentas, não apenas incorporamos blocos de código prontos para uso, mas também abraçamos arquiteturas robustas, princípios de design refinados, paradigmas inovadores e uma comunidade vibrante. Como desenvolvedora Front-End, esta escolha não só acelera a implementação de recursos, mas também fornece um arsenal completo de abstrações e vocabulário, permitindo que nos concentremos verdadeiramente nas características distintivas e únicas de cada projeto. Embarque nesta jornada de desenvolvimento e descubra como estas ferramentas se tornam aliadas indispensáveis na construção de experiências web excepcionais.
 
 ## Índice
 
